@@ -12,7 +12,7 @@ class App extends React.Component {
               <header className="App-header">
                 <img src={logo} className="App-logo" alt="logo" />
                 <p>
-                  Check Edit <code>src/App.js</code>
+                  Check Edit <code>src/App.js</code>first stage
                 </p>
                 <a
                   className="App-link"
